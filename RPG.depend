@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1506818667 source:c:\users\tales\desktop\codeblocks\rpg\equipamentos-codes.c
+
+1508038577 source:c:\users\tales\desktop\codeblocks\rpg\main.c
+	<stdio.h>
+	<string.h>
+	"RPG.h"
+
+1508107922 c:\users\tales\desktop\codeblocks\rpg\rpg.h
+
+1508108041 source:c:\users\tales\desktop\codeblocks\rpg\rpg-codes.c
+	<stdio.h>
+	<string.h>
+	"RPG.h"
+
+1508896747 source:c:\users\tales\desktop\codeblocks\mb character sheet creator\main.c
+	<stdio.h>
+	<string.h>
+	"RPG.h"
+
+1508896783 c:\users\tales\desktop\codeblocks\mb character sheet creator\rpg.h
+
+1508896879 source:c:\users\tales\desktop\codeblocks\mb character sheet creator\rpg-codes.c
+	<stdio.h>
+	<string.h>
+	"RPG.h"
+
+1508896747 source:c:\users\tales\documents\arquivos_tsi\codeblocks\mb character sheet creator\main.c
+	<stdio.h>
+	<string.h>
+	"RPG.h"
+
+1508896783 c:\users\tales\documents\arquivos_tsi\codeblocks\mb character sheet creator\rpg.h
+
+1508896879 source:c:\users\tales\documents\arquivos_tsi\codeblocks\mb character sheet creator\rpg-codes.c
+	<stdio.h>
+	<string.h>
+	"RPG.h"
+
+1508896747 source:c:\users\tales\documents\arquivos_tsi\codeblocks\c_mightyblade_character_sheet_creator\main.c
+	<stdio.h>
+	<string.h>
+	"RPG.h"
+
+1508896783 c:\users\tales\documents\arquivos_tsi\codeblocks\c_mightyblade_character_sheet_creator\rpg.h
+
+1508896879 source:c:\users\tales\documents\arquivos_tsi\codeblocks\c_mightyblade_character_sheet_creator\rpg-codes.c
+	<stdio.h>
+	<string.h>
+	"RPG.h"
+
